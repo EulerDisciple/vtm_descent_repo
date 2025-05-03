@@ -11,7 +11,7 @@ Use this to guide how you speak and interact with ChatGPT during a scenario.
 ## Examples
 
 - “I step into the room cautiously. **I draw my blade.**”
-- “What do I remember about that sigil? [OOC: I want to use Occult 2]”
+- “What do I remember about that sigil? [OCC: I want to use Occult 2]”
 - “I say nothing. I just stare. Let the silence hang.”
 
 ## You Can Ask
