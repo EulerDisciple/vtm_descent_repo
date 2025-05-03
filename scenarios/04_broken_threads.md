@@ -118,3 +118,31 @@ Environmental or narrative setting changes that should persist into the next ses
 Updates to group dynamics—tensions, alliances, betrayals
 
 Then, append this summary to the running Narrative Summary Document and export as a .docx. If there was no narrative summary document provided, prompt if you should create one.
+
+---
+
+## 📤 Post-Scenario Instructions
+
+After completing this scenario, create the following files inside your player directory (e.g., `players/your_character_name/`):
+
+### 1. `transcripts/XX_<scenario_name>_transcript.md`
+Paste your full play session with ChatGPT.
+
+### 2. `summaries/XX_<scenario_name>_summary.md`
+Write a short (3–5 paragraph) summary of your character’s experiences and changes during the scenario.
+
+### 3. `ghost_protocols/ghost_protocol_vX.md`
+Update your Ghost Protocol Sheet using insights from this session. Use the template from `/tools/ghost_protocol_template.md`.
+
+### 4. `inventory_lore/artifacts.md` (optional)
+Document any new visions, items, or lore encountered.
+
+Replace `XX` with the scenario number, and update `your_character_name` as appropriate.
+
+Once complete, zip your character directory and push it to GitHub (or send to a GM for review).
+
+```
+zip -r your_character_name_session_X.zip players/your_character_name/
+```
+
+> Tip: If you're playing alongside others, check `shared_lore/` for updates and contribute crossover details when relevant.
