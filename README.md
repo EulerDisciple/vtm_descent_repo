@@ -61,3 +61,10 @@ Example:
 ```
 player/seraphine/session-01
 ```
+
+
+---
+
+## 📘 First Time Using GitHub?
+
+Check out `NEW_PLAYERS_GUIDE.md` for step-by-step help, from installing Git to submitting your first PR.
