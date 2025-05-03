@@ -33,3 +33,31 @@ After completing a scenario:
 - Archive new items or symbols
 
 Once done, zip your player folder and push it to GitHub. This keeps your story and character evolution versioned and accessible.
+
+
+---
+
+## 📬 Submitting Your Character and Session
+
+Rather than zipping and uploading, **fork the repo or create a branch**, then:
+
+1. Add your files under `players/<your_character_name>/`
+2. Include:
+   - A session transcript
+   - A scenario summary
+   - An updated Ghost Protocol Sheet
+   - Any new lore or item entries
+3. Create a Pull Request
+
+Your PR will be reviewed by a world admin for lore continuity and merged into the shared universe.
+
+### Branch Naming Convention
+
+```
+player/<your_name>/session-<scenario_number>
+```
+
+Example:
+```
+player/seraphine/session-01
+```
