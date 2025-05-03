@@ -1,0 +1,19 @@
+name: Bug Report
+description: Report typos, broken links, or formatting errors
+title: "Bug: [short description]"
+labels: [bug]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File or Scenario
+      description: Which file or folder had the bug?
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the problem
+    validations:
+      required: true

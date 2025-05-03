@@ -1,0 +1,19 @@
+name: Scenario Idea
+description: Suggest a new solo scenario
+title: "Scenario Idea: [title]"
+labels: [enhancement, scenario]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Working Title
+      placeholder: e.g., Night at the Dockyards
+    validations:
+      required: true
+  - type: textarea
+    id: pitch
+    attributes:
+      label: Scenario Pitch
+      description: Describe the vibe, story, and goal
+    validations:
+      required: true

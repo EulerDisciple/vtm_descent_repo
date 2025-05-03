@@ -1,0 +1,17 @@
+name: Lore Proposal
+description: Propose shared lore changes (NPC, symbol, timeline)
+title: "Lore Proposal: [summary]"
+labels: [lore]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What lore are you contributing or changing?
+    validations:
+      required: true
+  - type: textarea
+    id: justification
+    attributes:
+      label: Why should this be added?
+    validations:
+      required: true
