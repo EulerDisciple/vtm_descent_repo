@@ -1,70 +1,61 @@
-# Vampire: The Masquerade – Descent into Madness
+# 🧛 Descent into Madness  
+*An async Vampire: The Masquerade 20th Anniversary chronicle powered by ChatGPT and GitHub*
 
-Welcome to your solo or shared chronicle. This repo supports players running story-driven campaigns with ChatGPT as the GM. Each player stores session logs, Ghost Protocol summaries, and character histories in their folder.
+Welcome to a unique solo storytelling experience where each player runs their own campaign using ChatGPT as the Storyteller, but your actions shape a **shared world** with other Kindred. Scenarios are played one-on-one, but your transcripts, discoveries, and changes live on in GitHub.
 
-## Structure
+> 🧠 You don’t need to know Git or be a coder.  
+> 🧃 You *do* need imagination, curiosity, and a hunger for story.
 
-- `scenarios/`: Markdown-based solo scenarios
-- `players/<name>/`: Transcripts, summaries, and Ghost Protocol sheets
-- `shared_lore/`: NPCs, events, and recurring symbols
-- `tools/`: Prompts, templates, and dice macros
+---
 
-To begin, copy a scenario from `scenarios/` into your session log and start playing using the instructions in the prompt file.
+## 🚀 Getting Started
+
+**👣 First time here? Start with our [Beginner Guide →](NEW_PLAYERS_GUIDE.md)**  
+**🧾 Then read the [Quick Start →](docs/quick_start.md)**  
+**🧰 Grab the [Prompt Pack →](tools/prompts/)**  
+
+Or follow this 5-step flow:
+
+1. **Paste a prompt** into ChatGPT  
+2. **Pick a scenario** from [`/scenarios`](scenarios/)  
+3. **Play and respond** in turn-based style  
+4. **Record your story** in [`/players/`](players/)  
+5. **Submit a PR** to shape the world
+
+---
+
+## 🗂 Directory Overview
+
+| Folder | Purpose |
+|--------|---------|
+| [`scenarios/`](scenarios/) | Self-contained solo modules (like story quests) |
+| [`players/`](players/) | Your character's data, logs, and reflections |
+| [`shared_lore/`](shared_lore/) | NPCs, rumors, discovered artifacts |
+| [`tools/prompts/`](tools/prompts/) | Prompts to copy into ChatGPT |
+| [`docs/`](docs/) | Quick start guides and safety tools |
+
+---
+
+## 🧬 Why Git, Not Google Docs?
+
+- **Version Control** – Track your growth across sessions
+- **Pull Requests** – Let admins review and merge new lore
+- **Lore Permanence** – A living archive of chronicle-wide discoveries
+- **No Uploads Needed** – ChatGPT can read your character’s GitHub file live
+
+---
+
+### 👁️ Want a tour?
+![How it works demo GIF](link-to-demo.gif) ← *(coming soon)*
+
 
 
 ---
 
-## 🔁 After Each Scenario
+## 📜 System Attribution
 
-Every player should create or update their own folder inside `players/`, structured like this:
+This project uses a custom narrative system inspired by *Vampire: The Masquerade (20th Anniversary Edition)* by White Wolf Publishing.  
+All character mechanics and stat structures are derivative and referenced solely for personal, non-commercial storytelling.
 
-```
-players/<your_character_name>/
-├── transcripts/
-├── summaries/
-├── ghost_protocols/
-└── inventory_lore/
-```
+All plot, worldbuilding, and chronicles in this repository are original creations by the contributors of *Descent into Madness*.
 
-After completing a scenario:
-- Add a transcript of your gameplay
-- Summarize your character’s arc
-- Update your Ghost Protocol Sheet
-- Archive new items or symbols
-
-Once done, zip your player folder and push it to GitHub. This keeps your story and character evolution versioned and accessible.
-
-
----
-
-## 📬 Submitting Your Character and Session
-
-Rather than zipping and uploading, **fork the repo or create a branch**, then:
-
-1. Add your files under `players/<your_character_name>/`
-2. Include:
-   - A session transcript
-   - A scenario summary
-   - An updated Ghost Protocol Sheet
-   - Any new lore or item entries
-3. Create a Pull Request
-
-Your PR will be reviewed by a world admin for lore continuity and merged into the shared universe.
-
-### Branch Naming Convention
-
-```
-player/<your_name>/session-<scenario_number>
-```
-
-Example:
-```
-player/seraphine/session-01
-```
-
-
----
-
-## 📘 First Time Using GitHub?
-
-Check out `NEW_PLAYERS_GUIDE.md` for step-by-step help, from installing Git to submitting your first PR.
