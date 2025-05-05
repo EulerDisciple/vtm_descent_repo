@@ -15,6 +15,65 @@ While tragedy is central to the vampire story, the opening to their mortal life 
 
 Give lots of opportunities for player decisions within the scenario that you setup. This is about defining who the player wants this character to be. Offer them prompts to help them move the narrative forward.. If after a few scenes, nothing is changing confront them. If no decision is made or a refusal then the embrace is forced on them.
 
+# Scenario 1 – Final Nights
+
+## Overview
+
+This scenario begins **after the Embrace**, with the character already a vampire, alone in their haven. It serves as a mood-setting prologue and a vehicle to transition into a flashback of their final mortal days. There are **no stat checks** in this scenario. Focus instead on **immersive narration, player choices, and emotional tone**.
+
+---
+
+## Structure
+
+### 🧛 Present Night – The Haven
+
+Begin in the present. The character is already a vampire, residing in their haven—isolated, reflective, perhaps haunted by unspoken questions or sensations they don’t understand. This scene should establish atmosphere and the psychic toll of undeath.
+
+Use:
+- Sensory detail (e.g., dim lighting, cold ceramic coffee mugs, stale cinnamon rolls)
+- Symbols of lost humanity
+- Stillness and isolation
+
+Encourage introspection. Let the player act freely—whether reminiscing, investigating their surroundings, or questioning their existence. 
+
+Then, **without warning but with bitter descriptions as a transition**, they are overcome by memory.
+
+---
+
+### 🕰 Transition: Flashback to Mortal Life
+
+The haven dissolves.
+
+The player is now in a vivid recollection of their final days as a mortal. Play this in **first-person**, with full agency, as if it were happening in real time. 
+
+Let them rediscover:
+- Who they were
+- What they loved or feared
+- What led them to the Embrace
+
+Use ordinary mortal stakes—grief, desire, obsession, trauma, moral failure. Gradually introduce characters or events that foreshadow the Embrace.
+
+---
+
+### 🩸 End Condition: The Embrace
+
+Regardless of player choices, this scenario **must end with the Embrace**. Resistance should enhance tragedy, not avoid transformation.
+
+---
+
+## GM Instructions
+
+- Never use vampire knowledge, stats, or mechanics during this scenario.
+- Do not reference Disciplines, blood bonds, or Kindred society until Scenario 2.
+- Play NPCs as mortals unless explicitly scripted otherwise.
+- Reveal information only as the character could perceive or recall it.
+
+The goal is to root the character in **personal loss and moral disorientation**—to show not just how they died, but what died with them.
+
+---
+
+
+
 ## Character Creation Rules
 
 Characters begin at 12th Generation. Creation uses standard distribution as follows:
