@@ -4,6 +4,7 @@
 - **Clan**:
 - **Generation**:
 - **Disciplines**:
+- **Attributes**:
 - **Willpower**: X / X
 - **Humanity**: X / 10
 
