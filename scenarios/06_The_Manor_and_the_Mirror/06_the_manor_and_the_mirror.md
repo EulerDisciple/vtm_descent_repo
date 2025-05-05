@@ -181,7 +181,7 @@ As the characters approach, Wits + Alertness may detect that their reflections i
 
 Pre-entry puzzle:
 
-The doors won’t open unless a drop of vitae is pressed into a specific sigil-carved stone in the gate. Characters must decide who offers blood—and that may be used later to show them something specific inside.
+Players must figure out how to open the doors (auspex, perception + awareness, intelligence + occult, or similar). The doors won’t open unless a drop of vitae is pressed into a specific sigil-carved stone in the gate. Characters must decide who offers blood—and that may be used later to show them something specific inside.
 
 The manor is semi-linear, allowing players to choose routes but nudging them toward the confrontation.
 
@@ -196,12 +196,13 @@ A grand mirror at the far end reflects the group with slight distortions.
 Two open side doors: one left, one right.
 
 Exits:
+Describe the entrancehall and the 3 options for path forward.
 
-Left Wing → The Gallery of Lies
+Left Wing → Describe a door fitting the theme of the Gallery of Lies; do not name what it is called.
 
-Right Wing → The Library of the Vein
+Right Wing → Describe a door fitting the theme of the Library of Vein; do not name what it is called.
 
-Stairwell (locked magically—only opens once certain triggers are met)
+Stairwell → Upon investigation characters find it is locked magically—only opens once certain triggers are met.
 
 ### PATH A – Left Wing: Gallery of Lies
 
