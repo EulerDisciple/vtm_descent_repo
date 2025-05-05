@@ -5,8 +5,13 @@
 - **Generation**:
 - **Disciplines**:
 - **Attributes**:
-- **Willpower**: X / X
+	- Str / Dex / Stam:
+	- App / Cha / Manip:
+	- Perc / Int / Wits:
+- **Abilities**:
+- **Willpower**: X / 10
 - **Humanity**: X / 10
+- **Blood Pool**: X / 20
 
 ## Psychological Profile
 

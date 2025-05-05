@@ -4,8 +4,14 @@
 - **Clan**:
 - **Generation**:
 - **Disciplines**:
-- **Willpower**: X / X
+- **Attributes**:
+	- Str / Dex / Stam:
+	- App / Cha / Manip:
+	- Perc / Int / Wits:
+- **Abilities**:
+- **Willpower**: X / 10
 - **Humanity**: X / 10
+- **Blood Pool**: X / 20
 
 ## Psychological Profile
 
