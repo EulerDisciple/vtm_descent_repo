@@ -1,0 +1,74 @@
+# Scenario 3 – Echoes in the Blood (Modular Format)
+
+## Overview
+This scenario introduces three Ghost Protocol characters to the player character and gradually draws them together through mystery, danger, and difficult choices. The structure is modular, meaning it dynamically responds to character traits drawn from Ghost Protocol sheets.
+
+This design is reusable across campaigns by swapping in different Ghost Protocol characters.
+
+---
+
+## Act I: Convergence – Personalized Encounters
+
+Each Ghost Protocol sheet provides:
+- Clan
+- Concept
+- Nature/Demeanor
+- Notable history or connection
+- Motivation or suspicion regarding the Falcon symbol
+
+Use these fields to define a one-on-one meeting between each NPC and the player character.
+
+### Scene Template
+```
+Scene Title: [Ghost Protocol character name]’s Introduction  
+Setting: Chosen based on character concept  
+Tone: Defined by Nature/Demeanor  
+Conflict or Prompt: Defined by the character’s Motivation or Hook  
+Resolution: Offer aid, insight, or demand tied to the overarching mystery
+```
+
+**Examples:**
+- A Ventrue with “Director” Nature may meet in a ritzy private lounge, offering intelligence in exchange for loyalty.
+- A Ravnos “Trickster” might hijack the PC’s tech with a playful but sinister warning.
+- A Lasombra “Visionary” could appear during a crisis, speaking in riddles about fate and faith.
+
+---
+
+## Act II: Descent – Shared Revelation
+
+**The Hook:**  
+The PC receives a summons—via dream, encrypted message, or psychic echo—drawing them to a hidden, mystical location connected to the Falcon symbol.
+
+**Location Examples:**
+- Subterranean train tunnels with arcane graffiti  
+- Buried chapel beneath a forgotten church  
+- Overgrown botanical garden masking a bloodstained altar
+
+**Challenges:**
+1. **Environmental Puzzle or Trap**  
+   - Based on the party’s Disciplines and Abilities.
+2. **Echo Manifestation**  
+   - Represents the PC’s unresolved past or guilt; personalized via Ghost Protocol traits (e.g., Humanity loss, tragic backstory).
+
+---
+
+## Act III: Revelation – Shared Choice
+
+The group must make a decision that binds them together or exposes their differences.
+
+### Sample Outcomes:
+- Destroy or preserve a relic tied to an ancient bloodline
+- Spare or execute a Kindred who knows of the Falcon but has committed atrocities
+- Choose between escaping with knowledge or staying to seal something terrible away
+
+**Scene Dynamics:**
+- The character with the highest Willpower may temporarily take lead.
+- Past Humanity failures influence NPC attitudes and reactions.
+- Conflicts from Act I resurface in the form of inter-party debate.
+
+---
+
+## Reusability Features
+- Input-aware: Scene content adapts to Ghost Protocol attributes.
+- Coterie Builder: Designed to form a functional team by scenario’s end.
+- Replayable: Swap in new characters to reframe the story and its outcomes.
